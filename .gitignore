@@ -265,5 +265,6 @@ node_modules
 psd
 thumb
 sketch
+pyvenv.cfg
 
 # End of https://www.toptal.com/developers/gitignore/api/django,react,node
